@@ -5,6 +5,7 @@ ANGULAR CLI https://angular.io/cli
 con el siguiente comando instalamos angular cli de forma global esto no pormite crear proyectos angular
 ```bash
 npm install -g @angular/cli 
+ng version //? verificamos la version istalada
 ```
 para crear un proyecto en angular
 ```bash
