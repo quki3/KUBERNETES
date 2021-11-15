@@ -6,15 +6,23 @@ con el siguiente comando instalamos angular cli de forma global esto no pormite 
 ```bash
 npm install -g @angular/cli 
 ng version //? verificamos la version istalada
+ng --version //? idem
 ```
 para crear un proyecto en angular
 ```bash
 ng new nombredelproyecto
 ```
+dentro de la carpeta creada por angular tenemosel archivo angular.json
+```json
+
+```
 para rodarlo
 ```bash
 ng serve
+ng --port 4600 //? cambia el puerto que se levanta la ap
+ng build --prod //? crea la caarpeta dist
 ```
+
 crear un nuevo componente 
 ```bash
 ng generate component hello-world
