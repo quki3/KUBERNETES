@@ -1,5 +1,6 @@
 # Angular.__GB__
 getting started
+- Documentacion muy interezante https://github.com/angular
 # instalacion
 ANGULAR CLI https://angular.io/cli
 con el siguiente comando instalamos angular cli de forma global esto no pormite crear proyectos angular
